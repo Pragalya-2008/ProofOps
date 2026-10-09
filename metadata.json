@@ -1,0 +1,6 @@
+{
+  "name": "proofOps",
+  "description": "Evidence-first autonomous incident-response agent for simulated microservices with safety gate and competing root-cause hypotheses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
